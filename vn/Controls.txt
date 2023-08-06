@@ -1,0 +1,12 @@
+{
+	"strings": {
+		"ACTION_EQUIPMENT": "Kích hoạt trang bị",
+		"ACTION_INTERACT": "Tương tác",
+		"ACTION_JUMP": "Nhảy",
+		"ACTION_PRIMARY_SKILL": "Kĩ năng chính",
+		"ACTION_SECONDARY_SKILL": "Kĩ năng thứ 2",
+		"ACTION_SPECIAL_SKILL": "Kĩ năng đặc biệt",
+		"ACTION_SPRINT": "Bật/Tắt chạy",
+		"ACTION_UTILITY_SKILL": "Kĩ năng phụ"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"strings": {
+		"EOS_CANNOT_JOIN_STEAM_LOBBY_HEADER": "Không thể tham gia phòng chờ",
+		"EOS_CANNOT_JOIN_STEAM_LOBBY_MESSAGE": "Không thể tham gia phòng chờ Steam vì chế độ đa nền tản được bật. Tính năng này có thể tắt ở trong mục Cài Đặt Game.",
+		"EOS_DEACTIVATE_CROSSPLAY_RESTART": "Huỷ",
+		"EOS_INVALID_LOBBY_CROSSPLAY_GO_TO_SETTINGS": "Đi tới Cài Đặt Game",
+		"EOS_INVALID_LOBBY_NO_CROSSPLAY_DESCRIPTION": "Phòng mà bạn muốn tham gia yêu cầu chế độ chơi đa nền tảng phải tắt. Tính năng này có thể tắt ở trong mục Cài Đặt Game(yêu cầu khởi động lại game).",
+		"EOS_INVALID_LOBBY_REQUIRES_CROSSPLAY_DESCRIPTION": "Phòng mà bạn muốn tham gia yêu cầu chế độ chơi đa nền tảng được bật. Tính năng này có thể bật ở trong mục Cài Đặt Game(yêu cầu khởi động lại game).",
+		"EOS_LINK_ACCOUNT": "Liên kết Tài Khoản Epic Games",
+		"EOS_LINK_ACCOUNT_DESCRIPTION": "Liên kết hoặc tạo Tài Khoản Epic Games cho phép bản mời bạn bè từ Epic Games Store hoặc nhận lời mời từ họ.",
+		"EOS_NOT_LINKED_MESSAGE": "Chơi đa nền tảng được bật, nhưng bạn chưa liên kết Tài Khoản Epic Games và Steam với nhau. Bấm Thử Lại để liên kết lại lần nữa, hoặc bấm Huỷ để tắt chơi đa nền tảng và thoát game.",
+		"EOS_NOT_LINKED_TITLE": "Tài Khoản Epic Games chưa được liên kết",
+		"EOS_RETRY_LOGIN": "Thử Lại",
+		"EOS_SERVER_BROWSER_INFO": "Hiện chỉ duy nhất phòng chơi đa nền tảng",
+		"EOS_TOGGLE_CLOSE_LATER": "Lúc Khác",
+		"EOS_TOGGLE_CLOSE_NOW": "Ngay Bây Giờ",
+		"EOS_TOGGLE_CROSSPLAY_DESCRIPTION": "Cảnh báo: Thay đổi tuỳ chọn này sẽ yêu cầu khởi động lại game.\n\nChế độ chơi đa nền tảng cho phép người dùng Steam và Epic chơi với nhau. Yêu cầu phải liên kết tài khoản Steam và Epic lại với nhau.\n\nVới chế độ đa nền tảng bật, bạn sẽ thấy mỗi phòng chờ từ người chơi Epic Games hoặc Steam với chế độ đa nền tảng được bật\n\nVới chế độ đa nền tảng tắt, bạn sẽ thấy mỗi phòng chờ từ người chơi Steam với chế độ đa nền tảng được tắt.",
+		"EOS_TOGGLE_POPUP_MESSAGE": "Khởi Động lại là bắt buộc để chế độ đa nền tảng có hiệu lực. Chọn \"Ngay Bây Giờ\" để thoát game hoặc chọn \"Lúc Khác\" để tiếp tục chơi.",
+		"EOS_TOGGLE_POPUP_TITLE": "Yêu cầu Khởi Động lại",
+		"OPTION_EOS_LINK_ACCOUNT": "Liên kết Tài Khoản Epic Games của bạn"
+	}
+}

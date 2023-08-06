@@ -1,0 +1,33 @@
+{
+	"strings": {
+		"ARTIFACT_BOMB_DESCRIPTION": "Kẻ địch sẽ đánh rơi bom sau khi chết.",
+		"ARTIFACT_COMMAND_CUBE_BLUE_NAME": "Vật phẩm siêu hiếm loại 4",
+		"ARTIFACT_COMMAND_CUBE_GREEN_NAME": "Vật phẩm hiếm",
+		"ARTIFACT_COMMAND_CUBE_INTERACTION_PROMPT": "Mở",
+		"ARTIFACT_COMMAND_CUBE_ORANGE_NAME": "Vật phẩm siêu hiếm loại 3",
+		"ARTIFACT_COMMAND_CUBE_RED_NAME": "Vật phẩm siêu hiếm loại 1",
+		"ARTIFACT_COMMAND_CUBE_UNKNOWN_NAME": "Vật phẩm không thể xác định",
+		"ARTIFACT_COMMAND_CUBE_WHITE_NAME": "Vật phẩm bình thường",
+		"ARTIFACT_COMMAND_CUBE_YELLOW_NAME": "Vật phẩm siêu hiếm loại 2",
+		"ARTIFACT_COMMAND_DESCRIPTION": "Có thể lựa chọn vật phẩm.",
+		"ARTIFACT_ELITEONLY_DESCRIPTION": "Luôn luôn xuất hiện quái vật cao cấp.",
+		"ARTIFACT_ENIGMA_DESCRIPTION": "Xuất hiện với một trang bị ngẫu nhiên và nó sẽ thay đổi mỗi lần kích hoạt nó.",
+		"ARTIFACT_FRIENDLYFIRE_DESCRIPTION": "Kĩ năng và đòn đánh có thể gây sát thương cho đồng đội, áp dụng cho cả người chơi và quái vật.",
+		"ARTIFACT_GLASS_DESCRIPTION": "Đồng minh gây 500% damage nhưng chỉ có 10% máu.",
+		"ARTIFACT_MIXENEMY_DESCRIPTION": "Quái vật có thể xuất hiện dù không ở map đó.",
+		"ARTIFACT_MONSTERTEAMGAINSITEMS_DESCRIPTION": "Quái vật sẽ được trang bị vật phẩm sau mỗi stage.",
+		"ARTIFACT_NONE_DESCRIPTION": "Vô hiệu hoá Artifact đã chọn.",
+		"ARTIFACT_NONE_NAME": "Vô hiệu hoá Artifact.",
+		"ARTIFACT_RANDOMSURVIVORONRESPAWN_DESCRIPTION": "Người chơi luôn chơi một survivor ngẫu nhiên khi xuất hiện.",
+		"ARTIFACT_SACRIFICE_DESCRIPTION": "Quái vật sẽ rớt vật phẩm lúc chết nhưng không còn rương nữa.",
+		"ARTIFACT_SHADOWCLONE_DESCRIPTION": "Bản sao của người chơi sẽ xuất hiện và tấn công người chơi cứ sau mỗi 10 phút.",
+		"ARTIFACT_SINGLEMONSTERTYPE_DESCRIPTION": "Quái vật chỉ có một loại trong một stage.",
+		"ARTIFACT_SPIRIT_DESCRIPTION": "Tất cả nhân vật di chuyển nhanh hơn khi thấp máu.",
+		"ARTIFACT_SWARMS_DESCRIPTION": "Quái vật sinh ra gấp đôi, nhưng máu của chúng giảm một nữa.",
+		"ARTIFACT_TEAMDEATH_DEATHMESSAGE": "<style=cDeath><b>{0} đã chết và kéo theo tất cả.</b></style>",
+		"ARTIFACT_TEAMDEATH_DEATHMESSAGE_2P": "<style=cDeath><b>Cái chết của bạn gây ra hậu quả lớn hơn bạn nghĩ.</b></style>",
+		"ARTIFACT_TEAMDEATH_DESCRIPTION": "Khi một người chơi chết, tất cả mọi người sẽ chết theo. Chỉ chọn khi bạn thực sự chơi theo teamwork và có kĩ năng cá nhân cao.",
+		"ARTIFACT_WEAKASSKNEES_DESCRIPTION": "Damage rơi từ trên cao sẽ gấp đôi và đau hơn.",
+		"ARTIFACT_WISPONDEATH_DESCRIPTION": "Quái vật sẽ xuất hiện linh hồn của Wisps khi đánh bại."
+	}
+}

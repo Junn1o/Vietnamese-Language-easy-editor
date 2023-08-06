@@ -1,0 +1,13 @@
+{
+	"strings": {
+		"DIFFICULTY_BAR_0": "Cực dễ",
+		"DIFFICULTY_BAR_1": "Dễ",
+		"DIFFICULTY_BAR_2": "Trung bình",
+		"DIFFICULTY_BAR_3": "Khó",
+		"DIFFICULTY_BAR_4": "Cực khó",
+		"DIFFICULTY_BAR_5": "Có vẻ không ổn",
+		"DIFFICULTY_BAR_6": "Sao mà được",
+		"DIFFICULTY_BAR_7": "Bắt đầu mệt rồi đó",
+		"DIFFICULTY_BAR_8": "Sắp chịu hết nổi rồi"
+	}
+}
