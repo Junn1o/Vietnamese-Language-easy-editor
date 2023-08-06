@@ -1,0 +1,9 @@
+{
+    "name": "vietnamese_language_pack",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Junn1o/Vietnamese-Language-for-ROR2",
+    "description": "Vietnamese Language Pack for ROR2",
+    "dependencies": [
+        "TheMysticSword-FontReplacer-1.0.0", "Junnio-google_font-1.0.0"
+    ]
+}
